@@ -184,7 +184,7 @@ for (i in 1:17568) # loop to find the na
     if(week[i] == 3)
         week_day[i] <- 'weekday'
     if(week[i] == 4)
-        week_day[i] <- 'weekday'
+        week_day[i] <- 'weekday' 
     if(week[i] == 5)
         week_day[i] <- 'weekday'
     if(week[i] == 6)
